@@ -1,0 +1,9 @@
+Building godcoin
+
+See doc/readme-qt.rst for instructions on building godcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of godcoin.
+
+See doc/build-*.txt for instructions on building godcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of godcoin.
