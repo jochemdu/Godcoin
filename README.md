@@ -23,9 +23,7 @@ Development and contributions
 
 The development team work on their own assigned job for godcoin.
 Godcoin Dev - 		Hades 		(Hades@godcoin.info)
-Godcoin Dev - 		Talos		(Talos@godcoin.info)
-Community -		Poseidon 	(Poseidon@godcoin.info)
-Customer Support - 	Sytx		(Styx@godcoin.info)
+Godcoin Dev - 		Talos     (Talos@godcoin.info)
 If you would like to contribute please send us an e-mail at admin@godcoin.info or to any of the above devolopers/contributors.
 
 
@@ -43,7 +41,7 @@ Premine : 10,080 (0.04%)
 Ports
 
 RPC Port: 12700
-P2P Port: 12719
+P2P Port: 12701
 
 
 Community
